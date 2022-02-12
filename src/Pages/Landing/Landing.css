@@ -1,0 +1,14 @@
+.landing {
+  height: 100vh;
+  display: grid;
+  place-items: center;
+  grid-template-areas:
+    "login"
+    "title";
+}
+
+@media only screen and (min-width: 768px) {
+  .landing {
+    grid-template-areas: "title login";
+  }
+}

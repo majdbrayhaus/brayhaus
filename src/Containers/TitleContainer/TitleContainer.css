@@ -1,0 +1,14 @@
+.title-container {
+  grid-area: title;
+  display: grid;
+  place-items: center;
+  margin: 2rem;
+}
+.title {
+  font-weight: lighter;
+  color: var(--purple);
+}
+.subtitle {
+  font-weight: 300;
+  color: var(--silver);
+}

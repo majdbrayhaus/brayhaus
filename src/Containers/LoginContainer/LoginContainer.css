@@ -1,0 +1,11 @@
+.login-container {
+  grid-area: login;
+  background: var(--night);
+  padding: 1.5rem;
+  border-radius: 1rem;
+  display: grid;
+  grid-gap: 0.5rem;
+  width: 100%;
+  max-width: 300px;
+  margin: 0.5rem;
+}
