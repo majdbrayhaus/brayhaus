@@ -1,4 +1,7 @@
-![image](https://user-images.githubusercontent.com/99519826/153729054-43f17ee3-c237-4886-ba7e-b1e56c31a377.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/99519826/153729054-43f17ee3-c237-4886-ba7e-b1e56c31a377.png"/>
+</p>
+
 # Brayhaus
 _Create. Heal. Repeat._
 
