@@ -4,11 +4,10 @@ import "./LoginContainer.css";
 const LoginContainer = () => {
   return (
     <div className="login-container">
-      <p>Email</p>
-      <input />
-      <p>Password</p>
-      <input />
+      <input placeholder="Email" type="email" />
+      <input placeholder="Password" type="password" />
       <button className="primary">Log In</button>
+      <a className="forgot-password">Forgot password?</a>
       <button className="secondary">Create Account</button>
     </div>
   );
