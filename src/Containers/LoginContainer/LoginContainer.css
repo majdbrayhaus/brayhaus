@@ -1,20 +1,24 @@
 .login-container {
   grid-area: login;
-  background: var(--night);
+  /* background: var(--night);
   padding: 1rem;
-  border-radius: 1rem;
+  border-radius: 1rem; */
   display: grid;
   grid-gap: 1rem;
   width: 100%;
-  max-width: 350px;
+  max-width: 300px;
 }
-.forgot-password {
-  color: var(--purple);
-  background: none;
-  font-size: 1rem;
-  text-align: center;
-  border-bottom: 1px solid var(--steel);
-  padding-bottom: var(--padding);
+.google {
+  background: #fff;
+  color: var(--dusk);
+  display: flex;
+  justify-content: center;
+  place-items: center;
+}
+.google img {
+  height: 20px;
+  width: 20px;
+  margin-right: 1rem;
 }
 @media only screen and (min-width: 768px) {
   .login-container {
