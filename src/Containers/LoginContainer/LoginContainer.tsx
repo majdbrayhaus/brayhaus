@@ -4,11 +4,10 @@ import "./LoginContainer.css";
 const LoginContainer = () => {
   return (
     <div className="login-container">
-      <input placeholder="Email" type="email" />
-      <input placeholder="Password" type="password" />
-      <button className="primary">Log In</button>
-      <a className="forgot-password">Forgot password?</a>
-      <button className="secondary">Create Account</button>
+      <button className="google">
+        <img src="https://developers.google.com/identity/images/g-logo.png" />
+        Continue with Google
+      </button>
     </div>
   );
 };

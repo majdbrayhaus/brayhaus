@@ -4,8 +4,8 @@
   display: grid;
   place-items: center;
   grid-template-areas:
-    "login"
-    "title";
+    "title"
+    "login";
   max-width: 1000px;
   width: 100%;
 }
