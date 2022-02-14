@@ -1,15 +1,12 @@
 .login-container {
   grid-area: login;
-  /* background: var(--night);
-  padding: 1rem;
-  border-radius: 1rem; */
   display: grid;
   grid-gap: 1rem;
   width: 100%;
   max-width: 300px;
 }
 .google {
-  background: #fff;
+  background: var(--white);
   color: var(--dusk);
   display: flex;
   justify-content: center;
