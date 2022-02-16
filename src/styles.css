@@ -12,6 +12,8 @@ body {
   --silver: #dadbdc;
   --purple: #b033c0;
   --sunset: #e6ab08;
+  --white: #fff;
+  --black: #000;
   --padding: 1rem;
   --border-radius: 0.25rem;
   background: var(--midnight);
